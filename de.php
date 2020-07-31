@@ -4,9 +4,9 @@
      * Language array
      * @var array
      *
-     * When updating this, ONLY change the values on the right hand side.
+     * When updating this, ONLY change the valüs on the right hand side.
      * When I push a Prometheus update there will be a new section at the bottom of the en-gb language file each time there's an update.
-     * If the new values are not set it will fallback to the default ones.
+     * If the new valüs are not set it will fallback to the default ones.
      */
     $lang = array(
 
@@ -48,8 +48,8 @@
         "permanent" => "Permanent",
         "non_permanent" => "Zeitbegrenzt",
 
-        "select_credit" => "Credit Paket auswaehlen",
-        "select_raffle" => "Verlosungspaket auswaehlen",
+        "select_credit" => "Credit Paket auswählen",
+        "select_raffle" => "Verlosungspaket auswählen",
         "global_packages" => "Allgemeine Pakete",
 
         // Raffles
@@ -72,7 +72,7 @@
 
         // Purchase buttons
         "purchase_paypal" => "Mit PayPal kaufen",
-        "purchase_credits" => "Mit PayPal kaufen",
+        "purchase_credits" => "Mit Credits kaufen",
         "purchase" => "Kaufen",
         "buy_sign_in" => "Du musst dich anmelden, bevor du etwas kaufen kannst!",
         "buy_already_own" => "Du besitzt dieses Paket bereits!",
@@ -81,17 +81,17 @@
         "buy_they_not_compatible" => "Dieses Paket ist nicht mit einem anderen Paket dieser Person kompatibel!",
 
         // Packages
-        "buying_someone_else" => "Kaufst du fuer jemand anderen?",
-        "buying_yourself" => "Im Moment kaufst du fuer dich selbst.",
-        "buying_for" => "Im Moment kaufst du fuer ",
+        "buying_someone_else" => "Kaufst du für jemand anderen?",
+        "buying_yourself" => "Im Moment kaufst du für dich selbst.",
+        "buying_for" => "Im Moment kaufst du für ",
         "packages_custom_amount" => "Benutzerdefinierte Anzahl",
 
-        "packages_not_available" => "Fuer diesen Server sind keine Pakete verfuegbar.",
-        "raffle_not_available" => "Im Moment sind keine Verlosungspakete verfuegbar.",
-        "credit_not_available" => "Im Moment sind keine Credit Pakete verfuegbar.",
+        "packages_not_available" => "Für diesen Server sind keine Pakete verfügbar.",
+        "raffle_not_available" => "Im Moment sind keine Verlosungspakete verfügbar.",
+        "credit_not_available" => "Im Moment sind keine Credit Pakete verfügbar.",
 
         // Buttons
-        "submit" => "Bestaetigen",
+        "submit" => "Bestätigen",
 
         // Profile
         "non_perm_pkg" => "Zeitbegrenztes Paket",
@@ -99,7 +99,7 @@
         "acc_info" => "Account Information",
         "pkg_history" => "Paket Verlauf",
         "acc_credits" => "Credits",
-        "transfer_credits" => "Credits ueberweisen",
+        "transfer_credits" => "Credits überweisen",
         "package" => "Paket",
 
         // Tables
@@ -112,32 +112,32 @@
         "view" => "Ansehen",
 
         // Select boxes
-        "select_server" => "Server waehlen:",
-        "select_currency" => "Waehrung waehlen:",
-        "select_category" => "Kategorie waehlen:",
+        "select_server" => "Server wählen:",
+        "select_currency" => "Währung wählen:",
+        "select_category" => "Kategorie wählen:",
         "none" => "Keine(n)",
 
         // Modals
         "yes" => "Ja",
         "no" => "Nein",
         "sure" => "Bist du sicher?",
-        "sure_cur" => "Bist du sicher, dass du diese Waehrung loeschen moechtest?",
-        "sure_srv" => "Bist du dir sicher, dass du diesen Server loeschen moechtest?",
-        "sure_cat" => "Bist du dir sicher, dass du diese Kategorie loeschen moechtest?",
+        "sure_cur" => "Bist du sicher, dass du diese Währung löschen möchtest?",
+        "sure_srv" => "Bist du dir sicher, dass du diesen Server löschen möchtest?",
+        "sure_cat" => "Bist du dir sicher, dass du diese Kategorie löschen möchtest?",
 
         // Dangerous settings
-        "dangerous" => "Gefaehrliche Einstellungen",
-        "danger_cur" => "Alternativ, kannst du diese Waehrung loeschen.",
-        "danger_srv" => "Nicht den Server loeschen, es sei denn, ihm sind keine Pakete zugewiesen!",
-        "danger_cat" => "Nicht die Kategorie loeschen, es sei denn, ohr sind keine Pakete zugewiesen!",
-        "delete" => "Loeschen",
+        "dangerous" => "Gefährliche Einstellungen",
+        "danger_cur" => "Alternativ, kannst du diese Währung löschen.",
+        "danger_srv" => "Nicht den Server löschen, es sei denn, ihm sind keine Pakete zugewiesen!",
+        "danger_cat" => "Nicht die Kategorie löschen, es sei denn, ohr sind keine Pakete zugewiesen!",
+        "delete" => "Löschen",
 
         // Admin nav
         "dashboard" => "Dashboard",
         "general_settings" => "Allgemeine Einstellungen",
         "support_tickets" => "Support Tickets",
         "servers" => "Server",
-        "currencies" => "Waehrungen",
+        "currencies" => "Währungen",
         "categories" => "Kategorien",
         "packages_and_actions" => "Pakete & Aktionen",
         "credit_packages" => "Credit Pakete",
@@ -152,18 +152,18 @@
         "ingame_notifications" => "Ingame Benachrichtigungen",
 
         // Servers page
-        "add_srv" => "Server hinzufuegen",
+        "add_srv" => "Server hinzufügen",
         "edit_srv" => "Server bearbeiten",
         "server_name" => "Server Name",
         "featured_pkg_short" => "Meistgekauftes Paket",
 
         // Currency page
-        "add_cur" => "Waehrung hinzufuegen",
-        "edit_cur" => "Waehrung bearbeiten",
-        "cc" => "Waehrungs Code",
+        "add_cur" => "Währung hinzufügen",
+        "edit_cur" => "Währung bearbeiten",
+        "cc" => "Währungs Code",
 
         // Category page
-        "add_cat" => "Kategorie hinzufuegen",
+        "add_cat" => "Kategorie hinzufügen",
         "edit_cat" => "Kategorie bearbeiten",
         "cat_name" => "Kategorie Name",
 
@@ -179,7 +179,7 @@
         // Admin dashboard
         "total" => "Gesamt",
         "full_total" => "Insgesamt",
-        "dashboard_text" => "Willkommen im Admin Dashboard. Hier kannst du Statistiken ueber die Spenden sehen.",
+        "dashboard_text" => "Willkommen im Admin Dashboard. Hier kannst du Statistiken über die Spenden sehen.",
 
         /**
          * New in 1.4.7.2
@@ -190,27 +190,27 @@
         "amount" => "Anzahl",
         "you_have_none" => "Du hast keine(n)",
 
-        "add_cre" => "Credit Paket hinzufuegen",
+        "add_cre" => "Credit Paket hinzufügen",
         "edit_cre" => "Credit Paket bearbeiten",
         "pack_title" => "Paket Titel",
         "price" => "Preis",
-        "currency" => "Waehrung",
-        "sure_cre" => "Bist du sicher, dass du dieses Credit Paket loeschen moechtest?",
-        "danger_cre" => "Alternativ, kannst du dieses Vredit Paket loeschen.",
-        "select_package" => "Paket auswaehlen:",
-        "choose_cre" => "Credit Paket auswaehlen",
+        "currency" => "Währung",
+        "sure_cre" => "Bist du sicher, dass du dieses Credit Paket löschen möchtest?",
+        "danger_cre" => "Alternativ, kannst du dieses Vredit Paket löschen.",
+        "select_package" => "Paket auswählen:",
+        "choose_cre" => "Credit Paket auswählen",
         "brief_desc" => "Kurzbeschreibung",
         "amt_of_cre" => "Anzahl Credits",
         "price_of_pkg" => "Paketpreis",
         "no_support" => "Du hast keine Support Tickets",
-        "no_other_available" => "Kein anderes Paket verfuegbar",
+        "no_other_available" => "Kein anderes Paket verfügbar",
 
         /**
          * New in 1.4.8
          */
         "purchase_free" => "Bekomme dieses Paket kostenlos!",
-        "dashboard_revenuegraph" => "Einnahmen Graf",
-        "dashboard_revenuecurrency" => "In deiner Hauptwaehrung angezeigt",
+        "dashboard_revenügraph" => "Einnahmen Graf",
+        "dashboard_revenücurrency" => "In deiner Hauptwährung angezeigt",
         "dashboard_packagesgraph" => "Paket Sales",
         "dashboard_serversgraph" => "Server Sales",
         "between" => "Zwischen",
@@ -230,7 +230,7 @@
         /**
          * New in 1.4.9.3
          */
-        "header_sqlupdate" => "Es gibt ein neues <a href='admin.php?update'>MySQL Update!</a>",
+        "header_sqlupdate" => "Es gibt ein neüs <a href='admin.php?update'>MySQL Update!</a>",
         "monthly_goal" => "Monatliches Ziel",
         
         /**
@@ -239,8 +239,8 @@
         "payment_success" => "Zahlung erfolgreich!",
         "profile_updated" => "Dein Profil wurde aktualisiert.",
         "payment_failed" => "Zahlung fehlgeschlagen!",
-        "check_credits" => "Bitte ueberpruefe ob du genug Credits hast um dieses Paket zu kaufen!",
-        "not_authorised" => "Du bist nicht berechtigt diesen Bereich zu sehen. Melde dich zuerst an!",
+        "check_credits" => "Bitte überprüfe ob du genug Credits hast um dieses Paket zu kaufen!",
+        "not_authorised" => "Du bist nicht berechtigt diesen Bereich zu sehen. Melde dich zürst an!",
         
         /**
          * New in 1.5
@@ -250,28 +250,28 @@
         "no_graph_info_text" => "Graphinfo wird nicht angezeigt, weil noch keine Transaktionen vorhanden sind!",
         "paymentwall_purchase" => "Mit Paymentwall kaufen",
         "stripe_purchase" => "Mit Stripe kaunfen",
-        "payment_gateways" => "Zahlungsmoeglichkeiten",
+        "payment_gateways" => "Zahlungsmöglichkeiten",
         "advanced" => "Erweitert",
-        "no_servers" => "Momentan sind keine Server verfuegbar.",
-        "entries" => "Zugaenge",
+        "no_servers" => "Momentan sind keine Server verfügbar.",
+        "entries" => "Zugänge",
         "you_can_enter" => "Du kannst eintreten.",
         "times_more" => "mal mehr",
-        "dashboard_creditsrevenue" => "This graph also compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+        "dashboard_creditsrevenü" => "This graph also compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
         "pkg_discounted" => "Dieses Paket ist ausverkauft, da du es bereits besitzt.",
 
         "compatible_text" => "Solange du dieses Paket besitzt, kannst du die Pakete unten nicht besitzen",
         "not_compatible" => "Nicht kompatibel mit",
 
         "packages" => "Pakete",
-        "upgradeable_text" => "Wenn sie das ausgewaehlte Paket besitzen, erhalten sie dieses verguenstigt.",
+        "upgradeable_text" => "Wenn sie das ausgewählte Paket besitzen, erhalten sie dieses vergünstigt.",
         "upgradeable" => "Verbesserbar mit",
 
         "assign_actions" => "Aktionen festlegen",
-        "actions_text" => "Lege fest welche Aktion das Paket ausfuehren soll, nachdem der Spieler es gekauft hat.",
+        "actions_text" => "Lege fest welche Aktion das Paket ausführen soll, nachdem der Spieler es gekauft hat.",
         "actions" => "Aktionen",
         "servers" => "Server",
         "label_amount" => "Label Anahl",
-        "add_package" => "Paket hinzufuegen",
+        "add_package" => "Paket hinzufügen",
         "edit_package" => "Paket bearbeiten",
         "labels" => "Labels",
         "title" => "Titel",
@@ -282,7 +282,7 @@
          * New in 1.5.0.2
          */
         "hide" => "Paket verstecken",
-        "hide_text" => "Wenn du keins der unten ausgewaehlten Pakete besitzt, verstecke sie im Shop",
+        "hide_text" => "Wenn du keins der unten ausgewählten Pakete besitzt, verstecke sie im Shop",
         
         /**
          * New in 1.5.0.6
@@ -292,7 +292,7 @@
         "blacklist_notext" => "Du musst eine korrekte Steam64 oder SteamID eingeben",
         "blacklist_success" => "Du hast diese Person erfolgreich geblacklistet",
         "blacklisted_you" => "Du bist von jeglichem Verkauf von Paketen in dieser Community ausgeschlossen",
-        "blacklisted_them" => "Diese Person ist von Verkaufen in dieser Community ausgeschlossen. Du kannst nichts fuer ihn kaufen",
+        "blacklisted_them" => "Diese Person ist von Verkaufen in dieser Community ausgeschlossen. Du kannst nichts für ihn kaufen",
 
         "recent_donators" => "Letzte Donator",
         "name" => "Name",
@@ -314,15 +314,15 @@
          * New in 1.5.1
          */
         "permission_groups" => "Admin Gruppen",
-        "add_permission" => "Admin Gruppe hinzufuegen",
+        "add_permission" => "Admin Gruppe hinzufügen",
         "edit_permission" => "Admin Gruppe bearbeiten",
         "permissions" => "Rechte",
-        "no_perm" => "Sorry, aber das darfst du leider nicht machen (nicht genuegend Rechte)",
+        "no_perm" => "Sorry, aber das darfst du leider nicht machen (nicht genügend Rechte)",
 
         /**
          * New in 1.5.1.2
          */
-        "select_gateway" => "Zahlungsmethode auswaehlen",
+        "select_gateway" => "Zahlungsmethode auswählen",
 
         /**
          * New in 1.5.2
@@ -330,17 +330,17 @@
         "buy_disable" => "Pakete deaktivieren",
         "buy_disable_text" => "Deaktiviere diese Pakete wenn du dieses Paket kaufst",
 
-        "credits_doesntexist" => "DieserBenutzer existiert in unserem System nicht.",
+        "credits_dösntexist" => "DieserBenutzer existiert in unserem System nicht.",
         "credits_yourself" => "Du kannst Credits nicht an dich selbst senden.",
         "credits_steamid" => "Versuche eine andere SteamID",
-        "credits_transferringto" => "Uebertragen an:",
+        "credits_transferringto" => "übertragen an:",
 
         "type" => "Typ",
         "gateway" => "Zugang",
         "no_users" => "Keine Benutzer gefunden",
 
-        "view_profile" => "Profil anschauen",
-        "view_blacklist" => "Blacklist anschauen",
+        "view_profile" => "Profil anschaün",
+        "view_blacklist" => "Blacklist anschaün",
 
         "manage" => "Verwalten",
         "users_search" => "Nach Namen, Steam64 oder SteamID suchen",
@@ -351,33 +351,33 @@
         "assign_package" => "Paket zuweisen",
         "set_credits" => "Credits setzen",
         "give_ticket" => "Ticket geben",
-        "del_inactive_actions" => "Inaktive Aktionen loeschen",
+        "del_inactive_actions" => "Inaktive Aktionen löschen",
 
-        "select_pkg" => "Paket auswaehlen",
-        "do_assign_actions" => "Aktionen ausfuehren",
-        "dont_assign_actions" => "Aktionen nicht ausfuehren",
+        "select_pkg" => "Paket auswählen",
+        "do_assign_actions" => "Aktionen ausführen",
+        "dont_assign_actions" => "Aktionen nicht ausführen",
         "clone_expiretime" => "verbleibende Zeit vom letzten Paket des gleichen Typs kopieren",
         "assign" => "Zuweisen",
 
         "set" => "Setzen",
         "disable" => "Deaktivieren",
         "enable" => "Aktivieren",
-        "inactive_everyone" => "Fuer jeden inaktiv setzen",
+        "inactive_everyone" => "Für jeden inaktiv setzen",
         "del" => "Del",
         "edit" => "Bearbeiten",
 
         "sale_settings" => "Sale Einstellungen",
-        "sale_text" => "Waehle die Pakete, welche im Sale angeboten werden sollen.",
+        "sale_text" => "Wähle die Pakete, welche im Sale angeboten werden sollen.",
         "message" => "Nachricht",
         "percentage" => "Prozent",
         "end_date" => "End Datum",
 
         "update" => "Update",
         "automatic_updates" => "Automatische Updates",
-        "dl_lua" => "Aktuellste Lua Dateien downloaden",
-        "dl_web" => "Aktuellste Web Dateien downloaden",
-        "no_write_perm" => "Dein Updates Ornder hat keine Schreib-Rechte! Automatische Updates werden nicht funktionieren, bis du ihm die Rechte 777 vergeben hast! <br> Hier kannst du das Update manuell downloaden",
-        "newest_version" => "Die neueste Version:",
+        "dl_lua" => "Aktüllste Lua Dateien downloaden",
+        "dl_web" => "Aktüllste Web Dateien downloaden",
+        "no_write_perm" => "Dein Updates Ornder hat keine Schreib-Rechte! Automatische Updates werden nicht funktionieren, bis du ihm die Rechte 777 vergeben hast! <br> Hier kannst du das Update manüll downloaden",
+        "newest_version" => "Die neüste Version:",
 
         "test_message" => "Test Nachricht an den Server senden",
         
@@ -385,7 +385,7 @@
          * New in 1.5.2.2
          */
         
-        "find_more" => "Hier gibt es genauere Infos!",
+        "find_more" => "Hier gibt es genaüre Infos!",
 
         /**
          * New in 1.5.3
@@ -393,17 +393,17 @@
         
         "duplicate" => "Kopieren",
         "other" => "Andere",
-        "someone_else" => "Wie auch immer, du kannst es noch immer fuer jemand anderen kaufen",
+        "someone_else" => "Wie auch immer, du kannst es noch immer für jemand anderen kaufen",
 
         /**
          * New in 1.5.4 -- Do not replace $1, $2, $3 etc, they get replaced with numbers and stuff automatically, so keep them there!
          */
         
         "here" => "hier", // This is $1 in 'job_already_created' because it's wrapped in a link
-        "job_already_created" => "Du hast bereits einen eigenen Job erstellt. Wenn du direkt bezahlen moechtest klicke $1. Ansonsten kannst du einen neuen Job erstellen.",
+        "job_already_created" => "Du hast bereits einen eigenen Job erstellt. Wenn du direkt bezahlen möchtest klicke $1. Ansonsten kannst du einen neün Job erstellen.",
         
         "general_info" => "Generelle Information",
-        "preferences" => "Praeferenzen",
+        "preferences" => "Präferenzen",
 
         "job_name" => "Job Name",
         "chat_cmd" => "Chat Command um diesen Job zu erhalten",
@@ -418,21 +418,21 @@
 
         "friends" => "Freunde",
         "friends_max" => "<h6>Freunde - $1 max</h6>",
-        "friends_add" => "Fuer jeden Freund den du hinzufuegst, kostet es $1 oder $2 Credits mehr",
-        "friends_not" => "Du darfst keine Freunde zu diesem Paket hinzufuegen",
+        "friends_add" => "Für jeden Freund den du hinzufügst, kostet es $1 oder $2 Credits mehr",
+        "friends_not" => "Du darfst keine Freunde zu diesem Paket hinzufügen",
 
         "salary" => "Gehalt",
         "salary_static" => "Dein Gehalt wird $1 betragen",
-        "salary_base" => "Das normale Gehalt betraegt $1. Fuer jede Nummer die du hoch gehst, erhoeht sich der Preis um $2 oder $3 Credits",
+        "salary_base" => "Das normale Gehalt beträgt $1. Für jede Nummer die du hoch gehst, erhöht sich der Preis um $2 oder $3 Credits",
         "salary_max" => "<h6>Gehalt - $1 max times to scale</h6>",
-        "salary_current" => "Dein aktuelles Gehalt betraegt: $1",
+        "salary_current" => "Dein aktülles Gehalt beträgt: $1",
 
         "license" => "Lizenz",
         "license_included" => "Du bekommst eine Lizent mit diesem Job",
         "license_include" => "Lizenz - Kostet $1 oder $2 Credits",
         "license_no" => "Du bekommst keine Lizenz",
 
-        "payment_confirmation" => "Zahlungsbestaetigung",
+        "payment_confirmation" => "Zahlungsbestätigung",
         "job_total" => "Momentane Kosten: $1 oder $2 Credits",
         "job_proceed" => "Zur Kasse",
 
@@ -448,30 +448,30 @@
         "earned_month" => "GEWINN DIESES MONATS",
 
         "real_transaction" => "Als reelle Transaktion behandeln",
-        "not_real_transaction" => "Nicht als reelle Transaktion behandeln(Das Geld wird nicht zu irgendwelchen Stats hinzugefuegt)",
+        "not_real_transaction" => "Nicht als reelle Transaktion behandeln(Das Geld wird nicht zu irgendwelchen Stats hinzugefügt)",
         
         /**
          * New in 1.6
          */
 
-        "active_everyone" => "Fuer jeden aktivieren",
-        "buy_others_disabled" => "Die Moeglichkeit etwas fuer andere kaufen ist deaktiviert",
-        "job_skip_prize" => "Ueberspringen - Nur wenn du diesen Verlosungspreis nicht in Anspruch nehmen moechtest",
+        "active_everyone" => "Für jeden aktivieren",
+        "buy_others_disabled" => "Die Möglichkeit etwas für andere kaufen ist deaktiviert",
+        "job_skip_prize" => "überspringen - Nur wenn du diesen Verlosungspreis nicht in Anspruch nehmen möchtest",
 
         "move_packages" => "Klicke $1 um Pakete zu bewegen",
 
-        "add" => "Hinzufuegen",
+        "add" => "Hinzufügen",
         "edit" => "Bearbeiten",
 
         // Theme
         "theme" => "Thema",
-        "danger_theme" => "Loesche dieses Thema nur, wenn du es aktuell nicht benutzt!",
-        "sure_theme" => "Bist du sicher, dass du dieses Thema loeschen moechtest?",
+        "danger_theme" => "Lösche dieses Thema nur, wenn du es aktüll nicht benutzt!",
+        "sure_theme" => "Bist du sicher, dass du dieses Thema löschen möchtest?",
         "theme_name" => "Themen Name",
         
         "edit_theme" => "Thema bearbeiten",
-        "add_theme" => "Thema hinzufuegen",
-        "select_theme" => "Thema hinzufuegen",
+        "add_theme" => "Thema hinzufügen",
+        "select_theme" => "Thema hinzufügen",
 
         // Imprint page
         "imprint" => "Impressun",
@@ -495,17 +495,17 @@
         "server_rcon" => "Server RCon",
 
         "edit_raffle" => "Verlosung bearbeiten",
-        "add_raffle" => "Verlosung hinzufuegen",
-        "select_raffle" => "Verlosung auswaehlen:",
+        "add_raffle" => "Verlosung hinzufügen",
+        "select_raffle" => "Verlosung auswählen:",
 
         "package_cantbuy" => "Du kannst dieses Paket nicht kaufen ohne eines der folgenden Pakete zu besitzen: $1",
         "package_they_cantbuy" => "Dieses Paket kann nicht gekauft werden ohne eines der folgenden Pakete zu besitzen: $1",
 
         "hide" => "Wenn du keines dieser Pakete besitzt, kannst du dieses nicht bekommen",
-        "hide_text" => "Wenn du keines der unten ausgewaehlten Pakete besitzt, kann dieses Paket nicht gekauft werden",
+        "hide_text" => "Wenn du keines der unten ausgewählten Pakete besitzt, kann dieses Paket nicht gekauft werden",
 
         "your_spendings" => "Deine Spenden der letzten 5 Monate",
-        "spendings_currency" => "Die Spenden werden in der Website Haupt Waehrung [$1] angezeigt. Dieser Graph vergleicht Credit Spenden mit Geld Spenden. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Geld = <font color='#c10000'><b>Red</b></font>)",
+        "spendings_currency" => "Die Spenden werden in der Website Haupt Währung [$1] angezeigt. Dieser Graph vergleicht Credit Spenden mit Geld Spenden. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Geld = <font color='#c10000'><b>Red</b></font>)",
     
         "spent_total" => "INSGESAMT GESPENDET",
         "spent_week" => "DIESE WOCHE GESPENDET",
@@ -527,7 +527,7 @@
         "coupons" => "Gutscheine",
         "add_cou" => "Gutschein Hinzufügen",
         "edit_cou" => "Gutschein Bearbeiten",
-        "select_cou" => "Gutschein auswaehlen",
+        "select_cou" => "Gutschein auswählen",
         "sure_cou" => "Bist du sicher, dass du diesen Gutschein löschen willst?",
         "coupon_text" => "Wenn du einen Gutschein-Code hast, füge ihn hier ein :)",
     );
